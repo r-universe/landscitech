@@ -1,9 +1,5 @@
 [
   {
-    "package": "pfocal",
-    "oncran": true
-  },
-  {
     "package": "roads",
     "oncran": true
   }
