@@ -8,8 +8,3 @@
 	url = https://github.com/landscitech/roads
 	shallow = true
 	registered = true
-[submodule "pfocal"]
-	path = pfocal
-	url = https://github.com/LandSciTech/pfocal
-	shallow = true
-	registered = false
