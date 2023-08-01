@@ -2,10 +2,10 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "roads"]
-	path = roads
-	url = https://github.com/landscitech/roads
 [submodule "pfocal"]
 	path = pfocal
 	url = https://github.com/LandSciTech/pfocal
 	registered = false
+[submodule "roads"]
+	path = roads
+	url = https://github.com/landscitech/roads
